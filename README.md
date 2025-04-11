@@ -1,4 +1,4 @@
-# ¡Hola! Soy [ALexander Nehuel Lugo Pons] 👋
+# ¡Hola! soy [ALexander Nehuel Lugo Pons] 👋
 
 Soy estudiante de último año en la **Escuela Técnica 24 de 17** y actualmente estoy emprendiendo mi propio negocio de servicios técnicos. Tengo experiencia en asesoramiento y asistencia a usuarios en la selección, adquisición, instalación y personalización de aplicaciones y sistemas informáticos, ofreciendo soluciones prácticas y eficientes adaptadas a cada necesidad.
 
